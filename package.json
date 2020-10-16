@@ -11,7 +11,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Juan Camilo Rosero",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
